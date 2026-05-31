@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderupdate",
+        "uuid": 10602900,
+        "checksum": "r9w3zs"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
